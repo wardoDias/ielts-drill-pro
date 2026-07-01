@@ -5,7 +5,7 @@ import DashboardFilter from './components/DashboardFilter';
 import type { FilterState } from './components/DashboardFilter';
 import TestSelector from './components/TestSelector';
 import ShorthandDrill from './components/ShorthandDrill';
-import PredictiveGrammarDrill from './components/PredictiveGrammarDrill';
+import PredictiveGrammarDrill from './components/PredictiveGrammarDrill'; 
 import AnalyticsDashboard from './components/AnalyticsDashboard';
 import Leaderboard from './components/Leaderboard';
 import type { Database } from './supabaseClient';
